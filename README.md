@@ -17,32 +17,6 @@ Welcome to Vintage Haven! This charming admin panel is your go-to place for mana
 - **HTML/CSS**: Crafting a beautiful user interface with a sprinkle of style.
 - **Jinja2**: The magic behind rendering dynamic content in our templates.
 
-## 🚀 Getting Started
-
-Ready to dive into Vintage Haven? Follow these simple steps to set up your very own admin panel!
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/vintage-haven.git
-   ```
-
-2. **Navigate to the project directory**:
-   ```bash
-   cd vintage-haven
-   ```
-
-3. **Install the required packages**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Run the application**:
-   ```bash
-   python app.py
-   ```
-
-5. **Open your favorite web browser** and go to `http://127.0.0.1:5000` to explore your Vintage Haven!
-
 ## 🤝 Contributing
 
 We love contributions! If you have suggestions, improvements, or just want to share your thoughts, feel free to open an issue or submit a pull request. Let’s make Vintage Haven even more amazing together! 💖
