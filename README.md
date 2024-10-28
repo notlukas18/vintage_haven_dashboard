@@ -1,5 +1,3 @@
----
-
 # 🌟 Vintage Haven Admin Panel 🌟
 
 Welcome to Vintage Haven! This charming admin panel is your go-to place for managing a delightful collection of vintage products. Whether you're a collector or just love vintage items, this app is here to help you organize your treasures with ease!
